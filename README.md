@@ -1,3 +1,4 @@
+25/06/2014, rails, yaml or yml is basically like xml and json
 25/06/2014, climbing, how to tie a stop knot  
 25/06/2014, climbing, how to tie a figure of 8 knot  
 25/06/2014, climbing, use edge of walls indoors to reach higher holds  
